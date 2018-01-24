@@ -1,4 +1,4 @@
 <?php
 
 
-		echo 'yyyy';
+		echo 'version1';
